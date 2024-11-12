@@ -14,9 +14,9 @@ body {
   font-family: Arial, sans-serif;
   text-align: center;
   margin: 0;
-  padding: 20px;
+  padding: 20 px;
   background-color: dodgerblue;
-  //background-color: #f4f4f9;
+  /*background-color: #f4f4f9; */
 }
 
 header {
@@ -42,7 +42,7 @@ button {
 
 button:hover {
   background-color: #367639;
-  //background-color: green;
+  /*background-color: green;*/
 }
 
 #wordDefinition,
