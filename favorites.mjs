@@ -13,7 +13,7 @@ export function saveFavorite(word) {
 
 export function displayFavorites() {
   const favorites = getFavorites();
-  const favoritesList = document.getElementById("favoritesList");
+  const favoritesList = document.querySelector("#favList");
   favoritesList.innerHTML = ""; // Clear the current list
 
   favorites.forEach((word) => {

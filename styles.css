@@ -57,7 +57,7 @@ button:hover {
   line-height: 1.5;
 }
 
-#favoritesList {
+#favList {
   display: flex;
   flex-wrap: wrap;
   gap: 10px;
