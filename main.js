@@ -59,5 +59,4 @@ mybutton.addEventListener("click", () => {
   }
 });
 
-// Initial load (optional, you can remove this if you don't want a default word)
-//renderWords();
+
